@@ -9,5 +9,6 @@ namespace ConsoleApplication1
     class NewClass
     {
         public int value;
+        public string ss;
     }
 }
