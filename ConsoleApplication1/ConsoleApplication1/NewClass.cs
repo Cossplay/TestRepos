@@ -10,5 +10,6 @@ namespace ConsoleApplication1
     {
         public int value;
         public string ss;
+        public double doubleVal;
     }
 }
