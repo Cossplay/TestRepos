@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    class NewClass
+    class Program
     {
-        public int value;
-        public string ss;
-        public double doubleVal;
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Test");
+        }
     }
 }
